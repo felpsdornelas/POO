@@ -1,6 +1,9 @@
 ----- RESPOSTAS ------
 
-B) Aparece mensagem de erro na minha classe App.java, não é possível acessar minha variável nome na classe App.java
+PERGUNTA: Coloque o atributo nome como privativo e execute o programa. O que acontece?
+Explique.
+
+RESPOSTA B) Aparece mensagem de erro na minha classe App.java, não é possível acessar minha variável nome na classe App.java
 
 ERRO:
 
