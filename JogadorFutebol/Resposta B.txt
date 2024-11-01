@@ -1,0 +1,19 @@
+----- RESPOSTAS ------
+
+B) Aparece mensagem de erro na minha classe App.java, não é possível acessar minha variável nome na classe App.java
+
+ERRO:
+
+[{
+	"resource": "/c:/Users/Felipe/Documents/POO/JogadorFutebol/app.java",
+	"owner": "_generated_diagnostic_collection_name_#3",
+	"code": "33554503",
+	"severity": 8,
+	"message": "The field JogadorDeFutebol.nome is not visible",
+	"source": "Java",
+	"startLineNumber": 71,
+	"startColumn": 92,
+	"endLineNumber": 71,
+	"endColumn": 96
+}]
+

@@ -56,7 +56,7 @@ public class app {
                }
 
           } while (opcao != 5);
-
+          
      }
 
      public static pessoa lePessoa() {
@@ -111,8 +111,6 @@ public class app {
                ano = s.nextInt();
           }
 
-
-          
           formacao f = new formacao(nivel, instituicao, concluido, ano);
 
           return f;
