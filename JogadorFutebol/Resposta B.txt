@@ -3,7 +3,7 @@
 PERGUNTA: Coloque o atributo nome como privativo e execute o programa. O que acontece?
 Explique.
 
-RESPOSTA B) Aparece mensagem de erro na minha classe App.java, não é possível acessar minha variável nome na classe App.java
+RESPOSTA B) Aparece mensagem de erro na minha classe App.java, não é possível acessar minha variável nome na classe App.java. Isso ocorre devido aos encapsulamentos, para corrigir esse erro de private é necessário utilizar os métodos get's e set's. 
 
 ERRO:
 
