@@ -1,0 +1,23 @@
+O cliente realizaa a pesquisa da música e o sistema retorna com uma música ou indicações similares
+
+Exemplo : ytb, spotfy 
+
+Usuário, Música, Artista, Álbum 
+_
+_
+_
+
+Entidades: Usuário, Música, Artista, Álbum 
+Exemplo: Youtube, Spotfy
+
+Sistema de Recomendação de Músicas
+
+O sistema terá a funcionalidade principal de realizar a busca/recomendações de músicas conforme a pesquisa no usuário. 
+
+O usuário deve realizar o cadastro no sistema para que consiga acessar as músicas o perfil será único, com as seguintes informações: codígo do usuário, nome, idade, e-mail, senha, endereço, estilo musical. Após o cadastramento o cliente está apto para realizar as pesquisas das músicas. 
+
+O sistema usará bibliotecas de músicas para que fique um sistema mais organizado, as músicas serão organizadas por código da música, titulo, artista, álbum, gênero, ano de lançamento. O usuário pode pesquisar apenas uma música de uma vez, porém o sistema trará como resultado muitas ou nenhuma música de acord com recomendações e semelhanças, o primeiro resultado será o que tiver mais de acordo com a busca do usuário.
+
+O sistema também armazena dados sobre os artistas. Cada artista possui informações como código artista, nacionalidade, gênero principal. Um artista pode ter várias músicas e cada música pode ter vários artista. 
+
+Os dados do álbum também serão registrados pelo sistema, cada álbum inclui dados como o código do álbum, ano de lançamento e o artista responsável. Isso permite que os usuários explorem e descubram mais sobre seus artistas e álbuns preferidos. Um álbum pode ter várias músicas e cada música pode ter apenas um álbum. 
